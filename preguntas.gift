@@ -1,0 +1,39 @@
+De los siguientes tipos de datos, ¿cuál se puede considerar estructurados?{
+~ archivo JSON
+= tabla de excel
+~ correo electrónico
+~ Imágenes por satélite
+}
+
+
+Selecciona la respuesta que mejor describa la función de un sistema de nombres de dominio (DNS):
+{
+~ Almacena los datos que se procesarán más adelante, utilizando el código proporcionado por el propietario del servidor.
+= Conecta el localizador uniforme de recursos (URL) de un sitio web y la dirección IP real del servidor donde se encuentran los datos.
+~ Proporciona potencia de cómputo para que un usuario la utilice para desarrollar y ejecutar aplicaciones.
+~ Facilita reglas sobre quién puede acceder a los datos, en función de la dirección IP de un usuario.
+}
+
+
+En cuanto al término Datawarehouse (DWH) cuál de las siguientes afirmaciones es incorrecta:{
+~ Término por el que nos referimos al sitio donde se almacenan los datos de negocio utilizados en nuestro BI
+~ Normalmente se refiere a la base de datos donde se almacenan los datos, de ahí el término datawarehouse; almacén de datos.
+~ Se suele presentar en un modelo que optimice las consultas
+= Son las diferentes entidades que entran en juego en el negocio, contienen información característica y relaciones jerárquicas.
+}
+
+En un esquema de BBDD relacional en estrella, ¿que tipo de relación existe entre la tabla dimensional y una tabla de hechos?
+{
+= 1: N 
+~ 1: 1 
+~ N:N 
+~ No tienen ningún tipo de relación, las tablas dimensionales sólo se relacionan entre si.
+}
+
+¿En VirtualBox que tipo de interface de red nos permite configurar un router explícito?
+{
+~ NAT
+= red NAT
+~ Adaptador Puente
+~ Red interna
+}
